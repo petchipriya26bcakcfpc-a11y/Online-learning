@@ -1,30 +1,30 @@
 ## Online-learning App
 
 
-Project Overview
+##Project Overview
 A user-friendly mobile application designed to solve everyday user needs.
 Provides simple navigation and easy access to key features.
 Focuses on a smooth and convenient user experience.
 
-Objectives
+##Objectives
 To create a simple and attractive user interface.
 To make navigation quick and easy.
 To improve user convenience and satisfaction.
 To provide an efficient and engaging digital experience.
 
-Features
-🔐 Easy Login & Registration
-🏠 Simple Home Page
-🔍 Quick Search Option
-🧭 Easy Navigation
-📱 User-Friendly Interface
-🔔 Notifications & Updates
-❤️ Favorites / Wishlist
-👤 User Profile
-⚡ Fast and Smooth Performance
-🎨 Clean and Attractive Design
+##Features
+ Easy Login & Registration
+ Simple Home Page
+ Quick Search Option
+ Easy Navigation
+ User-Friendly Interface
+ Notifications & Updates
+ Favorites / Wishlist
+ User Profile
+ Fast and Smooth Performance
+ Clean and Attractive Design
 
-Design Highlights
+##Design Highlights
 Clean and modern UI.
 Simple navigation structure.
 Consistent colors, fonts, and icons.
@@ -34,14 +34,14 @@ Responsive and visually appealing screens
 Tools used
 Figma
 
-Screens
+##Screens
 1.Welcome
 2.Home screen
 3.All Course screen
 4.Course Details 
 5.Profile
 
-Screenshots
+##Screenshots
 
 1.Welcome
 <img width="150" height="300" alt="Welcome" src="https://github.com/user-attachments/assets/3edc9a06-c8cb-4a08-a5bc-8c7946651ff4" />
