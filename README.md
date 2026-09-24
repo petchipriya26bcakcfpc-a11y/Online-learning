@@ -62,12 +62,9 @@ Screenshots
 ##Figma prototype Link
 https://www.figma.com/design/utUA0xcmUqTfOHslKnLExs/online-course?node-id=3-24&t=i0jXzzWnqouHyJ9T-1
 
-##Developed
-Petchi priya
+##Developed By B.Petchi Priya
 
-Lisence
-
-
+License This project is created for educational purpose only
 
 
 
